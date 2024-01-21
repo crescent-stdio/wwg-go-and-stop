@@ -1,6 +1,6 @@
-# Go의 효능 ~마을의 위기를 막다~: Go and Stop
+# Go의 효능 `~마을의 위기를 막다~`: Go and Stop
 
-Women Who Go Seoul 2024년 1월 발표 'Go의 효능 ~마을의 위기를 막다~'에서 등장한 게임 'Go and Stop'을 구현한 코드.
+Women Who Go Seoul 2024년 1월 발표 'Go의 효능 `~마을의 위기를 막다~`'에서 등장한 게임 'Go and Stop'을 구현한 코드.
 
 > 마을의 위기를 막기 위해 세나가 개발한 게임 'Go and Stop'을 플레이해보자!
 > 이 게임은 '할리갈리(Halli Galli)'라는 게임을 모티브로 하여 제작되었다.
